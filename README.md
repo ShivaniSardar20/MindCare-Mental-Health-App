@@ -8,7 +8,7 @@
 
 | **Core Resources** | **Interface Preview** |
 | :--- | :--- |
-| 🎨 **[Figma Prototype] [([https://fixing-fond-77718326.figma.site/](https://fixing-fond-77718326.figma.site))]** | ![Dashboard](./dashboard.jpg) |
+| 🎨 **[Figma Prototype] [([https://fixing-fond-77718326.figma.site/](https://fixing-fond-77718326.figma.site))]** | ![Dashboard](Dashboard.jpg) |
 | 📺 **[Project Demo Video](PASTE_YOUR_PUBLIC_GOOGLE_DRIVE_LINK_HERE)** | ![Emergency SOS](./SOS.jpg) |
 | 📁 **[Source Code](#)**(https://github.com/ShivaniSardar20) | *Modern Dark-Purple UI* |
 
