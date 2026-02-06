@@ -9,8 +9,8 @@
 | **Core Resources** | **Interface Preview** |
 | :--- | :--- |
 | 🎨 **[Figma Prototype] [([https://fixing-fond-77718326.figma.site/](https://fixing-fond-77718326.figma.site))]** | ![Dashboard](Dashboard.jpg) |
-| 📺 **[Project Demo Video](PASTE_YOUR_PUBLIC_GOOGLE_DRIVE_LINK_HERE)** | ![Emergency SOS](./SOS.jpg) |
-| 📁 **[Source Code](#)**(https://github.com/ShivaniSardar20/MindCare-Mental-Health-App) | *Modern Dark-Purple UI* |
+| 📺 **[Project Demo Video](https://docs.google.com/videos/d/1vdlE_D6VPvvPFI7fbaVLuHbp34P-QHmArtUpLJjZS-M/edit?usp=sharing)** | ![Emergency SOS](./SOS.jpg) |
+| 📁 **[Source Code](#)**([https://github.com/ShivaniSardar20/MindCare-Mental-Health-App](https://github.com/ShivaniSardar20/MindCare-Mental-Health-App)) | *Modern Dark-Purple UI* |
 
 ---
 
