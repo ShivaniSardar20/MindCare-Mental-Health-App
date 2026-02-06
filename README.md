@@ -22,7 +22,7 @@
 * **Resource Library:** Curated articles and videos for mental and physical self-care.
 
 ### 🛠️ Tech Stack
-* **UI/UX Design:** [Figma](https://www.figma.com/make/LEOyTw8XwG0IDZCPlVvvIC/MindCare-dark-purple-theme?t=eh5f5R8dbytQwJkw-6)
+* **UI/UX Design:** [Figma](https://fixing-fond-77718326.figma.site)
 * **Frontend/Backend:** Python & Streamlit
 * **Data Visualization:** Plotly Express
 * **Styling:** Custom CSS (style.css)
